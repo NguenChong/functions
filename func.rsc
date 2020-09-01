@@ -49,8 +49,8 @@
 :global TelegramSend do={
 
     :global fmtDate;
-    :local id 275142611:AAHcGomHPoZj98RqbhqR15v_KsyFtaNGbpQ
-    :local chatid 299931895
+    :local id <id>
+    :local chatid <chatid>
     :local currDate;
     :local currTime [:pick $2 0 5];
     :local str
